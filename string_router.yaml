@@ -1,0 +1,5 @@
+show version: 
+  - arista_eos
+  - cisco_ios
+system/resource/print:
+  - mikrotik_routeros
